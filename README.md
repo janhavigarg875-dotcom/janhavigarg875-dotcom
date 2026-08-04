@@ -168,7 +168,7 @@ EduGlobal Univ demonstrates the ability to independently design, build, and depl
 ## Experience
 
 **Academic Project Engineer — Independent Coursework Projects**
-`2024 — Present`
+`2025 — Present`
 
 Designing and building embedded, full-stack, and data-oriented systems as part of coursework and self-directed learning at Lovely Professional University, with an emphasis on production-quality implementation over academic minimums.
 
