@@ -49,7 +49,7 @@ graduation: "2029"
 languages_spoken: ["English", "Hindi"]
 ```
 
-I am a Computer Science Engineering undergraduate focused on building **production-grade software systems** at the intersection of **full stack engineering** and **applied AI/ML**. My work spans embedded systems and IoT, relational database design, and modern web application architecture — approached with a **product engineering mindset** rather than a purely academic one.
+I am a Computer Science Engineering undergraduate at **Lovely Professional University** *(Class of 2029)*, focused on building **production-grade software systems** at the intersection of **full stack engineering** and **applied AI/ML**. My work spans embedded systems and IoT, relational database design, and modern web application architecture — approached with a **product engineering mindset** rather than a purely academic one.
 
 I care about writing clean, maintainable code, understanding systems end-to-end, and shipping projects that solve real problems — from edge-AI climate monitoring devices to full-stack web platforms.
 
@@ -124,21 +124,21 @@ AeroGuard-AI demonstrates applied edge computing — combining embedded systems 
 </details>
 
 <details>
-<summary><b>IoT Weather Monitoring System</b></summary>
+<summary><b>Gesture Control Presenter</b></summary>
 <br/>
 
-A comprehensive IoT-based weather monitoring system built on ESP32, integrating multiple sensors with real-time cloud dashboard visualization via Blynk.
+A touchless presentation control system that lets users navigate and interact with slides using real-time hand gesture recognition via webcam input.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | ESP32, DHT22, LDR, Rain Sensor, OLED Display, Blynk IoT Platform |
-| **Scale** | Multi-sensor single-device deployment |
-| **Performance** | Real-time data acquisition and OLED + cloud dashboard sync |
-| **Security** | Blynk-authenticated device communication |
-| **Impact** | Provides live temperature, humidity, light, and rainfall monitoring in a compact, low-cost unit |
-| **Repository** | [github.com/janhavigarg875-dotcom](https://github.com/janhavigarg875-dotcom) |
+| **Stack** | Python, OpenCV, MediaPipe |
+| **Scale** | Single-user, real-time webcam-based application |
+| **Performance** | Real-time hand landmark detection and gesture classification per frame |
+| **Security** | Fully local processing, no external data transmission |
+| **Impact** | Enables hands-free, intuitive presentation control without a keyboard, mouse, or clicker |
+| **Repository** | [gesture-control-presenter](https://github.com/janhavigarg875-dotcom/gesture-control-presenter) |
 
-This project reflects hands-on systems integration — combining multiple sensor modalities into a coherent embedded application with live remote monitoring, and served as the foundation for deeper exploration into edge-AI forecasting.
+This project demonstrates applied computer vision — using MediaPipe's hand-tracking pipeline with OpenCV to translate real-time finger and gesture positions into presentation control commands, removing the need for traditional input devices.
 
 </details>
 
@@ -202,21 +202,27 @@ Designing and building embedded, full-stack, and data-oriented systems as part o
 
 ## Certifications
 
-**AWS**
+**Google**
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Track-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-AI%20for%20Data%20Analytics-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-AI%20for%20App%20Building-4285F4?style=flat-square&logo=google&logoColor=white" />
 
-**Oracle**
+**IBM**
 
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-Introduction%20to%20Artificial%20Intelligence-052FAD?style=flat-square&logo=ibm&logoColor=white" />
 
-**NPTEL**
+**Microsoft & LinkedIn**
 
-<img src="https://img.shields.io/badge/NPTEL-Certified%20Course-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career%20Essentials%20in%20Generative%20AI-0A66C2?style=flat-square&logo=microsoft&logoColor=white" />
 
-**Cisco**
+**Infosys**
 
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Infosys-Cyber%20Security-007CC3?style=flat-square&logo=infosys&logoColor=white" />
+<img src="https://img.shields.io/badge/Infosys-Python-007CC3?style=flat-square&logo=infosys&logoColor=white" />
+
+**Udemy**
+
+<img src="https://img.shields.io/badge/Udemy-Generative%20AI-A435F0?style=flat-square&logo=udemy&logoColor=white" />
 
 <br/>
 
@@ -226,24 +232,12 @@ Designing and building embedded, full-stack, and data-oriented systems as part o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=janhavigarg875-dotcom&show_icons=true&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=6D28D9" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=janhavigarg875-dotcom&show_icons=true&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=6D28D9" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavigarg875-dotcom&theme=radical&hide_border=true&background=0F0326&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavigarg875-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&text_color=E9D5FF" width="49%" />
-
-</div>
-
-<br/>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=janhavigarg875-dotcom&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=janhavigarg875-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&text_color=E9D5FF" width="49%" />
 
 </div>
 
@@ -277,25 +271,16 @@ Designing and building embedded, full-stack, and data-oriented systems as part o
 
 ## Current Focus
 
-```yaml
-learning:
-  - Advanced Data Structures & Algorithms
-  - Machine Learning for Embedded Systems
-  - System Design Fundamentals
+<div align="center">
 
-building:
-  - Full Stack Web Applications
-  - Edge-AI IoT Devices
+| Status | Focus Areas |
+|---|---|
+| 🧠 **Learning** | Advanced Data Structures & Algorithms · Machine Learning for Embedded Systems · System Design Fundamentals |
+| 🛠️ **Building** | Full Stack Web Applications · Edge-AI IoT Devices |
+| 🔭 **Exploring** | Cloud Infrastructure (AWS) · Applied AI/ML Research |
+| 🤝 **Open To** | Software Engineering Internships · AI/ML Research Collaboration · Open Source Contribution |
 
-exploring:
-  - Cloud Infrastructure (AWS)
-  - Applied AI/ML Research
-
-open_to:
-  - Software Engineering Internships
-  - AI/ML Research Collaboration
-  - Open Source Contribution
-```
+</div>
 
 <br/>
 
