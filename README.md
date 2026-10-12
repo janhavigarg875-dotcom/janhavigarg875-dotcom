@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://janhavigarg875-dotcom.github.io/EduGlobal-Univ/">
+<a href="https://janhavi-ai.preview.emergentagent.com/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0326" />
 </a>
 <a href="https://linkedin.com/in/janhavigarg-6aa924379">
@@ -299,7 +299,7 @@ Designing and building embedded, full-stack, and data-oriented systems as part o
 <a href="https://github.com/janhavigarg875-dotcom">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0326" />
 </a>
-<a href="https://janhavigarg875-dotcom.github.io/EduGlobal-Univ/">
+<a href="https://janhavi-ai.preview.emergentagent.com/">
   <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0326" />
 </a>
 
